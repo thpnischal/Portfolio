@@ -1,0 +1,4 @@
+node_modules/
+# dist/  # Commented out to allow pushing dist folder
+.env
+.DS_Store
